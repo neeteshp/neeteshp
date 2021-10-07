@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neeteshp
 - 👀 I’m interested in SAP Apllications related developments
-- 🌱 I’m currently learning SAPUI5, Jenkins, Akana, OData
+- 🌱 I’m currently learning SAPUI5, AWS, Jenkins, Akana, OData
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ...I will add that later
 
